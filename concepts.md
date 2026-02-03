@@ -3,4 +3,4 @@
 3. Cross-origin: different protocols like http and https, different domain name or different port number.
 4. CORS:Cross origin resources sharing
 ￼
-![Demo Screenshot](images/demo.png)
+![Demo Screenshot](images/screenshots1.png)
